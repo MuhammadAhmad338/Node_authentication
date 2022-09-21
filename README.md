@@ -5,8 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-Flutter application authentication with nodejs/expressjs using JsonWebToken.
+Flutter application authentication with Nodejs/expressjs using JsonWebToken.
 
 A few resources to get you started if this is your first Flutter project:
 
